@@ -1,0 +1,13 @@
+[Unit]
+Description=Speech-Dispatcher, common interface to speech synthesizers
+
+[Service]
+Type=forking
+User=speech-dispatcher
+PIDFile=/var/run/speech-dispatcher/speech-dispatcher.pid
+ExecStart=/usr/bin/speech-dispatcher -d --pid-file /var/run/speech-dispatcher/speech-dispatcher.pid
+ExecReload=/bin/kill -HUP $MAINPID
+
+[Install]
+WantedBy=multi-user.target
+Alias=speech-dispatcher.service

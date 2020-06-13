@@ -1,0 +1,16 @@
+89186b9ddf18b7cf13714270cdaf8f8d  usr/lib/i386-linux-gnu/libnss3.so
+c2399c35119bb10057f1b4f31fb42cc4  usr/lib/i386-linux-gnu/libnssutil3.so
+1f44121a67f884df1a1628af14b2321e  usr/lib/i386-linux-gnu/libsmime3.so
+a3c95148d93a5a7234c52ce0a06e8ec2  usr/lib/i386-linux-gnu/libssl3.so
+d4ac7473d38706f6a289d8b018732187  usr/lib/i386-linux-gnu/nss/libfreebl3.chk
+2d346e5896d1909c8ab3e312050cb72b  usr/lib/i386-linux-gnu/nss/libfreebl3.so
+0b28cfed3fc1b479a11381963f6e7409  usr/lib/i386-linux-gnu/nss/libfreeblpriv3.chk
+756e936492ae42d275f69d7020d22c57  usr/lib/i386-linux-gnu/nss/libfreeblpriv3.so
+dc70f9d62428a24a5941cb829a767f21  usr/lib/i386-linux-gnu/nss/libnssckbi.so
+04eb8d3af782bab30582e36fe2f9cf17  usr/lib/i386-linux-gnu/nss/libnssdbm3.chk
+f51d61c5f6a9dd924257e777dee4dae9  usr/lib/i386-linux-gnu/nss/libnssdbm3.so
+caab82cb6481e77888cce4af1f13c076  usr/lib/i386-linux-gnu/nss/libsoftokn3.chk
+d899138f3ffcfa6cecc5d34eec82a13a  usr/lib/i386-linux-gnu/nss/libsoftokn3.so
+1c5c6d3bf5634823c1fa9467c383aba7  usr/share/doc/libnss3/changelog.Debian.gz
+2c0c7f235481281b777abb7b44826e95  usr/share/doc/libnss3/copyright
+a1df4a8de84c1c0d4f4a1d87c8aa006b  usr/share/lintian/overrides/libnss3

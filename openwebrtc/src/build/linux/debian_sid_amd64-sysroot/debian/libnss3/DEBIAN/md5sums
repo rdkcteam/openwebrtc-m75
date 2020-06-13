@@ -1,0 +1,16 @@
+28ee46829f470f644d3e2c819dcfdb59  usr/lib/x86_64-linux-gnu/libnss3.so
+026e0927adfec940c2745d792f3d1514  usr/lib/x86_64-linux-gnu/libnssutil3.so
+140408c62d04d73c499dffce2b44b7e4  usr/lib/x86_64-linux-gnu/libsmime3.so
+cff9054b1892071ce1c453bc69146268  usr/lib/x86_64-linux-gnu/libssl3.so
+14bbe4b345f6279cfe5286d208b7784a  usr/lib/x86_64-linux-gnu/nss/libfreebl3.chk
+ac0cc5ecaa8f3c8ec15ebacad37de89a  usr/lib/x86_64-linux-gnu/nss/libfreebl3.so
+7d450fb9772d4c5842351beb764c8124  usr/lib/x86_64-linux-gnu/nss/libfreeblpriv3.chk
+5062bfb1f36c74c7d7144ec76118542c  usr/lib/x86_64-linux-gnu/nss/libfreeblpriv3.so
+944b742205d48ec255cbfc563e586357  usr/lib/x86_64-linux-gnu/nss/libnssckbi.so
+accc04386af66886f9cad12e88655f14  usr/lib/x86_64-linux-gnu/nss/libnssdbm3.chk
+625dc61d10f14263c4c87939e48b0b47  usr/lib/x86_64-linux-gnu/nss/libnssdbm3.so
+7b9f0ee5471c74b61f75bd82d3f60369  usr/lib/x86_64-linux-gnu/nss/libsoftokn3.chk
+4d74539bb2bb3f63cac0c7d776aeb620  usr/lib/x86_64-linux-gnu/nss/libsoftokn3.so
+1c5c6d3bf5634823c1fa9467c383aba7  usr/share/doc/libnss3/changelog.Debian.gz
+2c0c7f235481281b777abb7b44826e95  usr/share/doc/libnss3/copyright
+a1df4a8de84c1c0d4f4a1d87c8aa006b  usr/share/lintian/overrides/libnss3

@@ -1,0 +1,17 @@
+88f767b6d17ca9231cebe1fd41514923  usr/bin/gpg-error-config
+88f767b6d17ca9231cebe1fd41514923  usr/bin/gpgrt-config
+1d92dcf88715a273c8513c1ed2370544  usr/include/x86_64-linux-gnu/gpg-error.h
+1d92dcf88715a273c8513c1ed2370544  usr/include/x86_64-linux-gnu/gpgrt.h
+8022a70a058debdad40baba08516a173  usr/lib/x86_64-linux-gnu/libgpg-error.a
+088deb5b56c9e3cb4a3011d158c2e117  usr/lib/x86_64-linux-gnu/libgpg-error.la
+b20e15468b130b82662c884c70c15936  usr/share/aclocal/gpg-error.m4
+8029a466a19a4744f171f90fe3927073  usr/share/aclocal/gpgrt.m4
+e5067d861e099a9d3c756f4855b066c9  usr/share/doc/libgpg-error-dev/README.gz
+7efa3d4960ce45f70ff38e3204413009  usr/share/doc/libgpg-error-dev/TODO.Debian
+85c4ff0ae48dea49da82a112cafc4e05  usr/share/doc/libgpg-error-dev/changelog.Debian.gz
+36dfbec9076211fe77793d2339467aa4  usr/share/doc/libgpg-error-dev/changelog.gz
+60d5c5832d5b9ee26311b156540db1fb  usr/share/doc/libgpg-error-dev/copyright
+66129343e5998a2450b118de696ad792  usr/share/doc/libgpg-error-dev/errorref.txt.gz
+f9580edcd4c5c00bcf48b7d423bb6f61  usr/share/info/gpgrt.info.gz
+fe120ff3b08cd7e6765a73da2a8a71c3  usr/share/lintian/overrides/libgpg-error-dev
+a42aa7018d595a91651d63822dbd6bd2  usr/share/man/man1/gpg-error-config.1.gz

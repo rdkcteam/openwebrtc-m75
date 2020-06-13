@@ -1,0 +1,6 @@
+4c5420e1401a51d026703c43375697eb  usr/include/xcb/dri2.h
+43db3e7d719fe9fdb3018a90ccf7ba2f  usr/lib/i386-linux-gnu/libxcb-dri2.a
+e1b732b6f9e932ecf35e3bebc00d9479  usr/lib/i386-linux-gnu/pkgconfig/xcb-dri2.pc
+6b4bb841046958098d99accb68a3833c  usr/share/doc/libxcb-dri2-0-dev/changelog.Debian.gz
+20280c50563cd2efcba7e1823f27d11b  usr/share/doc/libxcb-dri2-0-dev/changelog.gz
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-dri2-0-dev/copyright

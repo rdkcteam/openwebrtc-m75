@@ -1,0 +1,9 @@
+b62dc3388b799d1129a45559612a78b8  usr/include/re2/filtered_re2.h
+c476be314bdc032dd36f8550ec14daa9  usr/include/re2/re2.h
+255d482ca50b330c2880a70bf5e3e776  usr/include/re2/set.h
+00357952b8cdc8bfda11ef9de407c79a  usr/include/re2/stringpiece.h
+716463ff7222714466675233bdd6fe2e  usr/lib/x86_64-linux-gnu/libre2.a
+560da04d3c90252b7debcba9257cb67a  usr/lib/x86_64-linux-gnu/pkgconfig/re2.pc
+aa3a88f839f78d1a5027ae7c9d71d279  usr/share/doc-base/re2
+6de7be1edd63e37f7bfe46d913131695  usr/share/doc/libre2-4/syntax.html
+d3a700875bf7ac7c6f0507eb74295b18  usr/share/doc/libre2-4/syntax.txt.gz

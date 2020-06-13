@@ -1,0 +1,16 @@
+Package: libgcc-6-dev
+Source: gcc-6
+Version: 6.4.0-22
+Architecture: amd64
+Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Installed-Size: 12748
+Depends: gcc-6-base (= 6.4.0-22), libgcc1 (>= 1:6.4.0-22), libgomp1 (>= 6.4.0-22), libitm1 (>= 6.4.0-22), libatomic1 (>= 6.4.0-22), libasan3 (>= 6.4.0-22), liblsan0 (>= 6.4.0-22), libtsan0 (>= 6.4.0-22), libubsan0 (>= 6.4.0-22), libcilkrts5 (>= 6.4.0-22), libmpx2 (>= 6.4.0-22), libquadmath0 (>= 6.4.0-22)
+Recommends: libc6-dev (>= 2.13-5)
+Replaces: gccgo-6 (<< 6.4.0-22)
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: http://gcc.gnu.org/
+Description: GCC support library (development files)
+ This package contains the headers and static library files necessary for
+ building C programs which use libgcc, libgomp, libquadmath, libssp or libitm.

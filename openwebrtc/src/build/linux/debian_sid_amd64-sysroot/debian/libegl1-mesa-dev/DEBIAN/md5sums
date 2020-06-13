@@ -1,0 +1,11 @@
+647e0537660f4954f8f48faeb03c6928  usr/include/EGL/egl.h
+d8e4e095ec88fb45c56ac65fd6423aa3  usr/include/EGL/eglext.h
+99cc2d5269c8d9b437c2e69de8bfdd29  usr/include/EGL/eglextchromium.h
+462cb9511d4c60f8d3dde40ac52f39fa  usr/include/EGL/eglmesaext.h
+05518aa834c0d028d30f4524e57a7c2f  usr/include/EGL/eglplatform.h
+b236dcac248a45771b1d6039e3377b4d  usr/include/KHR/khrplatform.h
+a007fcfc679253042e53b61ecc17f473  usr/lib/x86_64-linux-gnu/pkgconfig/egl.pc
+7f0d95ab544ef194372363bb93229ede  usr/share/bug/libegl1-mesa-dev/control
+114f277e413ffae0a725cc024a955b47  usr/share/bug/libegl1-mesa-dev/script
+d7b95eb74d762c91e0a1f207434b878b  usr/share/doc/libegl1-mesa-dev/changelog.Debian.gz
+8b68944959c818870ee1893cf08437ae  usr/share/doc/libegl1-mesa-dev/copyright

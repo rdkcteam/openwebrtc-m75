@@ -1,0 +1,10 @@
+b07292505eb1a4861a72d2cfb4da7cf8  usr/include/xkbcommon/xkbcommon-compat.h
+b200e381c9a6a136c829c2cd0ee4ba8b  usr/include/xkbcommon/xkbcommon-compose.h
+73a727af03b3eaf6604cefc3820b59e6  usr/include/xkbcommon/xkbcommon-keysyms.h
+10fedda2f75a254daf645e9ad4d6fc53  usr/include/xkbcommon/xkbcommon-names.h
+2787994c926d89d935b3d80781deeccb  usr/include/xkbcommon/xkbcommon.h
+d7609fc2370dfa71a88a96869af05271  usr/lib/i386-linux-gnu/libxkbcommon.a
+2923bd36ba19e486fe3f6ecce392d3ef  usr/lib/i386-linux-gnu/pkgconfig/xkbcommon.pc
+4cb0b328a980c73809d6c4e93583afb4  usr/share/doc/libxkbcommon-dev/changelog.Debian.gz
+b640aa18158c900ea4a1ff385d0e4972  usr/share/doc/libxkbcommon-dev/changelog.gz
+1a56f734d175bd0a9975029e60419b7b  usr/share/doc/libxkbcommon-dev/copyright
